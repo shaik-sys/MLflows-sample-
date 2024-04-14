@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/projects/LungCancer/LungCancerDetection/mlruns/0/dbb205ce4f8b4dc9b9e7dd7395b4c43d/artifacts
+end_time: 1713121787776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbb205ce4f8b4dc9b9e7dd7395b4c43d
+run_name: aged-tern-91
+run_uuid: dbb205ce4f8b4dc9b9e7dd7395b4c43d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713121784813
+status: 3
+tags: []
+user_id: shaai
